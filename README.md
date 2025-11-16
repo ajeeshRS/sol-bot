@@ -1,15 +1,20 @@
-# bonkbot-like
+# Solana Telegram Bot
 
-To install dependencies:
+A lightweight solana bot built using **Bun**, **Telegram Bot API**, and **@solana/web3.js** for generating wallet, airdrop, SOL transfer.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Install dependencies
 
 ```bash
 bun install
 ```
-
-To run:
+### 2. Run the server
 
 ```bash
-bun run index.ts
+bun index.ts 
 ```
 
-This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Try running this server and Interact with the bot id @bonkit_solana_bot. Have fun!
